@@ -1,2 +1,2 @@
 # books-catalog
-java 8, spring boot, spring cloud, microservices
+A simple microservices app running on Spring Boot with Spring Cloud
